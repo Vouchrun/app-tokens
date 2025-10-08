@@ -3814,7 +3814,31 @@
             "symbol": "PLP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/vouchrun/app-tokens/main/token-logo/0x40bEddEB7858fAeb00d68943E15244aa3082afEE.png"
-        } 
+        },
+        {
+            "chainId": 369,
+            "name": "PulseX LP",
+            "address": "0x32CAac31757AEF52136B77c4e94219Ba4C9BFb66",
+            "symbol": "PLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/vouchrun/app-tokens/main/token-logo/0x32CAac31757AEF52136B77c4e94219Ba4C9BFb66.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseX LP",
+            "address": "0x63a3BD92Cc23EA1a051b4f53cAe4AD4168D9fBc0",
+            "symbol": "PLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/vouchrun/app-tokens/main/token-logo/0x63a3BD92Cc23EA1a051b4f53cAe4AD4168D9fBc0.png"
+        },
+        {
+            "chainId": 369,
+            "name": "PulseX LP",
+            "address": "0x60a5126Dcd2dffdcf41C5bfaF38f755C474E7aAc",
+            "symbol": "PLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/vouchrun/app-tokens/main/token-logo/0x60a5126Dcd2dffdcf41C5bfaF38f755C474E7aAc.png"
+        }   
     ],
     "logoURI": "https://raw.githubusercontent.com/vouchrun/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
