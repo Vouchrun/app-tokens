@@ -3833,12 +3833,20 @@
         },
         {
             "chainId": 369,
-            "name": "PulseX LP",
+            "name": "PulseX LP Vouch/WPLS",
             "address": "0x60a5126Dcd2dffdcf41C5bfaF38f755C474E7aAc",
             "symbol": "PLP",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/vouchrun/app-tokens/main/token-logo/0x60a5126Dcd2dffdcf41C5bfaF38f755C474E7aAc.png"
-        }   
+        },   
+        {
+            "chainId": 369,
+            "name": "PulseX LP",
+            "address": "0xc19025BB295Ad4fe158BA4e322136Bbe07b71D3D",
+            "symbol": "PLP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/vouchrun/app-tokens/main/token-logo/0xc19025BB295Ad4fe158BA4e322136Bbe07b71D3D.png"
+        } 
     ],
     "logoURI": "https://raw.githubusercontent.com/vouchrun/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
